@@ -27,7 +27,7 @@ Mashup_Assignment/
 │ └── static/
 │ └── style.css
 │
-├── 102303773.py
+├── 102303787.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -48,7 +48,7 @@ Mashup_Assignment/
 ### ▶️ Usage
 
 ```bash
-python 102303773.py "<SingerName>" <NumberOfVideos> <AudioDuration> <OutputFileName>
+python 102303787.py "<SingerName>" <NumberOfVideos> <AudioDuration> <OutputFileName>
 ```
 
 ---
@@ -56,7 +56,7 @@ python 102303773.py "<SingerName>" <NumberOfVideos> <AudioDuration> <OutputFileN
 ## 📌 Example
 
 ```bash
-python 102303773.py "Arijit Singh" 12 30 mashup.mp3
+python 102303773.py "Sidhu Moose Sidhu" 12 30 mashup.mp3
 ```
 
 ---
@@ -143,8 +143,8 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-- **Name:** Sameer Rai
-- **Roll Number:** 102303773
+- **Name:** Navdeep Singh
+- **Roll Number:** 102303787
 - **Assignment Title:** Mashup Generator
 
 ---
