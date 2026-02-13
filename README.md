@@ -56,7 +56,7 @@ python 102303787.py "<SingerName>" <NumberOfVideos> <AudioDuration> <OutputFileN
 ## 📌 Example
 
 ```bash
-python 102303773.py "Sidhu Moose Sidhu" 12 30 mashup.mp3
+python 102303787.py "Sidhu Moose Sidhu" 12 30 mashup.mp3
 ```
 
 ---
